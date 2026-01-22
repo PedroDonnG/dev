@@ -1,0 +1,14 @@
+@import url(/Coecx/Edu/style/header.css);
+@import url(/Coecx/Edu/style/footer.css);
+@import url(/Coecx/Edu/style/penta.css);
+
+:root {
+    --branco: #FFFFFF;
+    --preto:#3A404E;
+    --cinza:#667085;
+    --fonte-principal: "Inter";
+    --vermelho:#8E2424;
+    --preto-secundario:#101828;
+    --margem: 112px;
+
+}
